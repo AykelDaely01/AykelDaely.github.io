@@ -1,0 +1,45 @@
+{
+  "sertifikasi": [
+    {
+      "id": 1,
+      "judul": "Ahli K3 Umum (AK3U)",
+      "penerbit": "KEMNAKER RI",
+      "tahun": "2023",
+      "deskripsi": "Sertifikasi kompetensi pembinaan Ahli K3 Umum dengan lisensi resmi dari Kementerian Ketenagakerjaan."
+    },
+    {
+      "id": 2,
+      "judul": "ISO 45001:2018 Awareness",
+      "penerbit": "Lembaga Sertifikasi Profesi",
+      "tahun": "2023",
+      "deskripsi": "Pemahaman fundamental mengenai Sistem Manajemen Keselamatan dan Kesehatan Kerja."
+    },
+    {
+      "id": 3,
+      "judul": "First Aid & Basic Life Support",
+      "penerbit": "PMI / Kemenkes",
+      "tahun": "2022",
+      "deskripsi": "Pelatihan tanggap darurat medis dasar di tempat kerja."
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "judul": "Pentingnya JSA dalam Pekerjaan di Ketinggian",
+      "tanggal": "12 Mei 2024",
+      "cuplikan": "Job Safety Analysis (JSA) adalah kunci mencegah fatalitas pada pekerja konstruksi saat berada di ketinggian di atas 1.8 meter..."
+    },
+    {
+      "id": 2,
+      "judul": "Membangun Safety Culture di Generasi Z",
+      "tanggal": "28 April 2024",
+      "cuplikan": "Bagaimana pendekatan persuasif dapat meningkatkan kesadaran K3 bagi pekerja muda di sektor manufaktur dan konstruksi..."
+    },
+    {
+      "id": 3,
+      "judul": "Inspeksi Alat Pelindung Diri (APD) yang Efektif",
+      "tanggal": "10 April 2024",
+      "cuplikan": "Mengapa sekadar memakai APD tidak cukup? Inspeksi kelayakan APD secara berkala dapat menyelamatkan nyawa pekerja."
+    }
+  ]
+}
