@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   lucide.createIcons();
 
   // 2. Set tahun hak cipta secara otomatis
-  document.getElementById('copyright-year').textContent = `© ${new Date().getFullYear()} Nama Lengkap, S.Tr.KKK. All rights reserved.`;
+  document.getElementById('copyright-year').textContent = `© ${new Date().getFullYear()} Aykel Daeli, S.Tr.KKK. All rights reserved.`;
 
   // 3. Logika Navbar Mobile
   const mobileMenuBtn = document.getElementById('mobile-menu-btn');
