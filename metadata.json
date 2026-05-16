@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio S.Tr.K3 Professional",
+  "description": "Website portofolio profesional untuk lulusan Sarjana Terapan Keselamatan dan Kesehatan Kerja (K3) dengan fokus pada pencegahan risiko dan budaya K3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

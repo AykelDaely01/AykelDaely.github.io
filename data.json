@@ -1,0 +1,55 @@
+{
+  "certifications": [
+    {
+      "id": 1,
+      "title": "Ahli K3 Umum Sertifikasi Kemnaker RI",
+      "year": "2023",
+      "issuer": "Kemnaker RI",
+      "image": "https://placehold.co/600x400/1e3a8a/ffffff?text=Ahli+K3+Umum"
+    },
+    {
+      "id": 2,
+      "title": "Sertifikasi Auditor Internal SMK3",
+      "year": "2024",
+      "issuer": "PT. Safety Expert",
+      "image": "https://placehold.co/600x400/1e3a8a/ffffff?text=Auditor+SMK3"
+    },
+    {
+      "id": 3,
+      "title": "Basic First Aid & Fire Fighting",
+      "year": "2023",
+      "issuer": "Safety Training Center",
+      "image": "https://placehold.co/600x400/1e3a8a/ffffff?text=First+Aid+Training"
+    },
+    {
+      "id": 4,
+      "title": "HSE Plan Development Workshop",
+      "year": "2024",
+      "issuer": "HSE Indonesia",
+      "image": "https://placehold.co/600x400/1e3a8a/ffffff?text=HSE+Plan"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Pentingnya Budaya K3 di Proyek Konstruksi Stadion",
+      "date": "10 Mei 2024",
+      "excerpt": "Bagaimana implementasi K3 dapat mempercepat progres pembangunan tanpa mengabaikan keselamatan pekerja...",
+      "image": "https://placehold.co/800x600/f59e0b/ffffff?text=Budaya+K3"
+    },
+    {
+      "id": 2,
+      "title": "Analisis Risiko Menggunakan Metode FMEA",
+      "date": "25 April 2024",
+      "excerpt": "Mengenal lebih dalam metode Failure Mode and Effects Analysis dalam mengidentifikasi titik kritis kegagalan...",
+      "image": "https://placehold.co/800x600/1e3a8a/ffffff?text=FMEA+Analysis"
+    },
+    {
+      "id": 3,
+      "title": "Inovasi APD di Era Industri 4.0",
+      "date": "15 Maret 2024",
+      "excerpt": "Integrasi teknologi sensor pada Alat Pelindung Diri untuk pemantauan kesehatan pekerja secara real-time...",
+      "image": "https://placehold.co/800x600/4b5563/ffffff?text=Modern+PPE"
+    }
+  ]
+}

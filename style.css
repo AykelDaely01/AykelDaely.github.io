@@ -1,0 +1,53 @@
+/* Memastikan scroll smooth antar section */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom utilities yang dulunya di src/index.css */
+.section-padding {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+@media (min-width: 768px) {
+  .section-padding {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+@media (min-width: 1024px) {
+  .section-padding {
+    padding-left: 6rem;
+    padding-right: 6rem;
+  }
+}
+
+/* Komponen Card transparan */
+.glass-card {
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 1rem;
+}
+
+/* Border pelengkap list pengalaman */
+.safety-border {
+  border-left-width: 4px;
+  border-left-color: #f59e0b; /* Safety Yellow */
+  border-left-style: solid;
+}
+
+/* Animasi untuk Observer (Vanilla JS fallback motion/react) */
+.animate-on-scroll {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 700ms;
+}
+
+/* Helper Class Delay Vanilla */
+.delay-100 { transition-delay: 100ms; }
+.delay-200 { transition-delay: 200ms; }
+.delay-300 { transition-delay: 300ms; }
+.delay-400 { transition-delay: 400ms; }
+.delay-500 { transition-delay: 500ms; }
